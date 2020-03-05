@@ -7,7 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudBasedBookReader", "src
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{7246D8A0-4DEB-4C34-B98D-F8514D6AF59A}"
 	ProjectSection(SolutionItems) = preProject
+		Administrator Diagram.drawio = Administrator Diagram.drawio
+		Administrator Diagram.pdf = Administrator Diagram.pdf
+		Administrator Sequence Diagram.drawio = Administrator Sequence Diagram.drawio
+		Administrator Sequence Diagram.pdf = Administrator Sequence Diagram.pdf
+		Client Diagram.drawio = Client Diagram.drawio
+		Client Diagram.pdf = Client Diagram.pdf
 		README.md = README.md
+		System Architecture Diagram.drawio = System Architecture Diagram.drawio
+		System Architecture Diagram.pdf = System Architecture Diagram.pdf
+		User Sequence Diagram.drawio = User Sequence Diagram.drawio
+		User Sequence Diagram.pdf = User Sequence Diagram.pdf
 	EndProjectSection
 EndProject
 Global
